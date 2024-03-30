@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to Payhere-Android-Bypass-<a href="https://frida.re/docs/android/">Frida</a> <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="30px"/></h1>
-<h2 align="center">A Program Which Allows You To Obfuscate Python Programs</h2>
 <p align="center">
   <img alt="Language: Javascript"
     src="https://img.shields.io/badge/Language-Javascript-lightgreen?logo=javascript&logoColor=yellow&style=flat-square" />
