@@ -10,7 +10,7 @@
     src="https://img.shields.io/github/repo-size/Sl-Sanda-Ru/Payhere-Android-Bypass-Frida?style=flat-square&color=lightgreen">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="40px" />
-<a href="https://youtu.be/10KHjqgAswM">Click Here For A Demonstration Video</a>
+<a href="https://youtu.be/6f6weeahblM">Click Here For A Demonstration Video</a>
 <br>
 
 ## 1. Install Frida
